@@ -12,4 +12,4 @@
 
 Join to the WIP decay theme discord server!
 
-[Click Me to Join](https://discord.gg/87duqCjx)
+[Click Me to Join](https://discord.gg/HaqkpE7B3B)
