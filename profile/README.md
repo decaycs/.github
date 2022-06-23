@@ -1,4 +1,5 @@
 <h3 align="center">
+  <img align="center" src="https://raw.githubusercontent.com/decaycs/.github/main/assets/logo.png">
 	Decay Theme!
 </h3>
 
